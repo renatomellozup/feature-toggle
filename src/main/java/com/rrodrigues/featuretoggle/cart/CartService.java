@@ -1,4 +1,4 @@
 package com.rrodrigues.featuretoggle.cart;
 
-public class CardRepository {
+public class CartService {
 }
